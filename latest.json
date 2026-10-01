@@ -1,0 +1,50 @@
+{
+  "repo": "PyrrohX/cb-apps-releases",
+  "updatedAt": "2026-10-01T12:10:33.530Z",
+  "apps": {
+    "suite": {
+      "name": "CB Suite",
+      "version": "0.2.0",
+      "file": "CB-Suite-Setup-0.2.0.exe",
+      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/suite-v0.2.0/CB-Suite-Setup-0.2.0.exe",
+      "size": 82564077,
+      "sha256": "348a8b0b8ace17e45f9823922ec919b5f6a23250af066746b45ab7d9d9bcd31e",
+      "notes": "Updates from GitHub: an Updates page in the sidebar, and apps install straight from the releases repo.",
+      "releasedAt": "2026-10-01T12:10:34.137Z",
+      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/suite-v0.2.0"
+    },
+    "dashboard": {
+      "name": "CB Dashboard",
+      "version": "0.1.0",
+      "file": "CB-Dashboard-Setup-0.1.0.exe",
+      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/dashboard-v0.1.0/CB-Dashboard-Setup-0.1.0.exe",
+      "size": 82491087,
+      "sha256": "8258c2cacbe16780b41b9098d9737810bfb56976f9bb35bf2e645eadd82f6ff2",
+      "notes": "First release on GitHub.",
+      "releasedAt": "2026-10-01T12:11:53.736Z",
+      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/dashboard-v0.1.0"
+    },
+    "requests": {
+      "name": "Equipment Requests - Aspire",
+      "version": "0.1.0",
+      "file": "Equipment-Requests-Aspire-Setup-0.1.0.exe",
+      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/requests-v0.1.0/Equipment-Requests-Aspire-Setup-0.1.0.exe",
+      "size": 82413745,
+      "sha256": "c73199b7e589200d5b075fae06d3bbb9e348d0efa32471bbe9e1ef79ce4331ad",
+      "notes": "First release on GitHub.",
+      "releasedAt": "2026-10-01T12:13:32.543Z",
+      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/requests-v0.1.0"
+    },
+    "photos": {
+      "name": "Property Photos - Aspire",
+      "version": "0.1.0",
+      "file": "Property-Photos-Aspire-Setup-0.1.0.exe",
+      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/photos-v0.1.0/Property-Photos-Aspire-Setup-0.1.0.exe",
+      "size": 82419181,
+      "sha256": "72502b70a72c31ee9b9f9e5223dfac78c0e5129cd0796afbaacb7665d0616819",
+      "notes": "First release on GitHub.",
+      "releasedAt": "2026-10-01T12:14:58.214Z",
+      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/photos-v0.1.0"
+    }
+  }
+}
