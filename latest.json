@@ -1,6 +1,6 @@
 {
   "repo": "PyrrohX/cb-apps-releases",
-  "updatedAt": "2026-10-01T12:10:33.530Z",
+  "updatedAt": "2026-10-02T17:11:25.720Z",
   "apps": {
     "suite": {
       "name": "CB Suite",
@@ -15,14 +15,14 @@
     },
     "dashboard": {
       "name": "CB Dashboard",
-      "version": "0.1.0",
-      "file": "CB-Dashboard-Setup-0.1.0.exe",
-      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/dashboard-v0.1.0/CB-Dashboard-Setup-0.1.0.exe",
-      "size": 82491087,
-      "sha256": "8258c2cacbe16780b41b9098d9737810bfb56976f9bb35bf2e645eadd82f6ff2",
-      "notes": "First release on GitHub.",
-      "releasedAt": "2026-10-01T12:11:53.736Z",
-      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/dashboard-v0.1.0"
+      "version": "0.2.0",
+      "file": "CB-Dashboard-Setup-0.2.0.exe",
+      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/dashboard-v0.2.0/CB-Dashboard-Setup-0.2.0.exe",
+      "size": 82510187,
+      "sha256": "4474a5de801b85d5243c8728976d2642f2bb89c5c068ca8f3d2310cf451993fc",
+      "notes": "New Snow Event board: every plow, salt and sidewalk route during a storm, stop by stop, with square feet done and quiet crews flagged. New Snow theme. Repair tickets are now made only in Equipment Requests - Aspire, so the Tickets page is gone from Settings.",
+      "releasedAt": "2026-10-02T17:11:26.818Z",
+      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/dashboard-v0.2.0"
     },
     "requests": {
       "name": "Equipment Requests - Aspire",
