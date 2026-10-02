@@ -1,50 +1,50 @@
 {
   "repo": "PyrrohX/cb-apps-releases",
-  "updatedAt": "2026-10-02T17:11:25.720Z",
+  "updatedAt": "2026-10-02T18:12:02.754Z",
   "apps": {
     "suite": {
       "name": "CB Suite",
-      "version": "0.2.0",
-      "file": "CB-Suite-Setup-0.2.0.exe",
-      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/suite-v0.2.0/CB-Suite-Setup-0.2.0.exe",
-      "size": 82564077,
-      "sha256": "348a8b0b8ace17e45f9823922ec919b5f6a23250af066746b45ab7d9d9bcd31e",
-      "notes": "Updates from GitHub: an Updates page in the sidebar, and apps install straight from the releases repo.",
-      "releasedAt": "2026-10-01T12:10:34.137Z",
-      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/suite-v0.2.0"
+      "version": "0.2.1",
+      "file": "CB-Suite-Setup-0.2.1.exe",
+      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/suite-v0.2.1/CB-Suite-Setup-0.2.1.exe",
+      "size": 81963848,
+      "sha256": "2303497adfdff83865d78688d857706b200dbcf7af72b41dbd08d2badad83685",
+      "notes": "An app download that stalls now stops after a minute and says so instead of hanging, and a full disk is reported properly.",
+      "releasedAt": "2026-10-02T18:12:03.383Z",
+      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/suite-v0.2.1"
     },
     "dashboard": {
       "name": "CB Dashboard",
-      "version": "0.2.0",
-      "file": "CB-Dashboard-Setup-0.2.0.exe",
-      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/dashboard-v0.2.0/CB-Dashboard-Setup-0.2.0.exe",
-      "size": 82510187,
-      "sha256": "4474a5de801b85d5243c8728976d2642f2bb89c5c068ca8f3d2310cf451993fc",
-      "notes": "New Snow Event board: every plow, salt and sidewalk route during a storm, stop by stop, with square feet done and quiet crews flagged. New Snow theme. Repair tickets are now made only in Equipment Requests - Aspire, so the Tickets page is gone from Settings.",
-      "releasedAt": "2026-10-02T17:11:26.818Z",
-      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/dashboard-v0.2.0"
+      "version": "0.3.0",
+      "file": "CB-Dashboard-Setup-0.3.0.exe",
+      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/dashboard-v0.3.0/CB-Dashboard-Setup-0.3.0.exe",
+      "size": 81908140,
+      "sha256": "aba567c107385cbabf1ee4f7008313e5c1903f442ddd041595e68161ff8b114e",
+      "notes": "New in Settings → Displays → This computer: Open at sign-in, so the TVs come back on their own after a restart, and Keep screens awake, so Windows doesn't turn them off. A TV whose page crashes now reloads itself. Fixes: a page you switch away from no longer keeps checking Aspire in the background, and an Aspire sign-in that stops working is renewed straight away instead of failing until the next day.",
+      "releasedAt": "2026-10-02T18:12:09.684Z",
+      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/dashboard-v0.3.0"
     },
     "requests": {
       "name": "Equipment Requests - Aspire",
-      "version": "0.1.0",
-      "file": "Equipment-Requests-Aspire-Setup-0.1.0.exe",
-      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/requests-v0.1.0/Equipment-Requests-Aspire-Setup-0.1.0.exe",
-      "size": 82413745,
-      "sha256": "c73199b7e589200d5b075fae06d3bbb9e348d0efa32471bbe9e1ef79ce4331ad",
-      "notes": "First release on GitHub.",
-      "releasedAt": "2026-10-01T12:13:32.543Z",
-      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/requests-v0.1.0"
+      "version": "0.1.1",
+      "file": "Equipment-Requests-Aspire-Setup-0.1.1.exe",
+      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/requests-v0.1.1/Equipment-Requests-Aspire-Setup-0.1.1.exe",
+      "size": 81824259,
+      "sha256": "04b9a1b2bbf3ea80cf8fd5d83d835a62d1d3ca32d3d8a245a005c7ed1bf45ac1",
+      "notes": "An Aspire sign-in that stops working is renewed straight away instead of failing until the next day, and Aspire not answering now shows an error after a minute instead of leaving the list loading. The repair card now says it was made by Equipment Requests - Aspire.",
+      "releasedAt": "2026-10-02T18:12:15.034Z",
+      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/requests-v0.1.1"
     },
     "photos": {
       "name": "Property Photos - Aspire",
-      "version": "0.1.0",
-      "file": "Property-Photos-Aspire-Setup-0.1.0.exe",
-      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/photos-v0.1.0/Property-Photos-Aspire-Setup-0.1.0.exe",
-      "size": 82419181,
-      "sha256": "72502b70a72c31ee9b9f9e5223dfac78c0e5129cd0796afbaacb7665d0616819",
-      "notes": "First release on GitHub.",
-      "releasedAt": "2026-10-01T12:14:58.214Z",
-      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/photos-v0.1.0"
+      "version": "0.1.1",
+      "file": "Property-Photos-Aspire-Setup-0.1.1.exe",
+      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/photos-v0.1.1/Property-Photos-Aspire-Setup-0.1.1.exe",
+      "size": 81840290,
+      "sha256": "6a9a9e4906c5adfb0999bcf4fdd419d68257722b7459dd0889cc22f65027964f",
+      "notes": "Map pieces are now deleted 30 days after they're downloaded, so the app's storage can't keep growing. An Aspire sign-in that stops working is renewed straight away, a stuck photo download gives up after two minutes and tries again, and one photo with no date can no longer stop a property from loading.",
+      "releasedAt": "2026-10-02T18:12:20.261Z",
+      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/photos-v0.1.1"
     }
   }
 }
