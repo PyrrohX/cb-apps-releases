@@ -1,50 +1,50 @@
 {
   "repo": "PyrrohX/cb-apps-releases",
-  "updatedAt": "2026-10-05T12:00:43.236Z",
+  "updatedAt": "2026-10-05T12:29:39.131Z",
   "apps": {
     "suite": {
       "name": "CB Suite",
-      "version": "0.2.1",
-      "file": "CB-Suite-Setup-0.2.1.exe",
-      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/suite-v0.2.1/CB-Suite-Setup-0.2.1.exe",
-      "size": 81963848,
-      "sha256": "2303497adfdff83865d78688d857706b200dbcf7af72b41dbd08d2badad83685",
-      "notes": "An app download that stalls now stops after a minute and says so instead of hanging, and a full disk is reported properly.",
-      "releasedAt": "2026-10-02T18:12:03.383Z",
-      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/suite-v0.2.1"
+      "version": "1.0.0",
+      "file": "CB-Suite-Setup-1.0.0.exe",
+      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/suite-v1.0.0/CB-Suite-Setup-1.0.0.exe",
+      "size": 81967601,
+      "sha256": "a7b1046b4fc86a4f452eefdbe231d3e7368d1ea3f7b321e373e770ced72ecfc2",
+      "notes": "First official release. One place to open, install and update CB Dashboard, Equipment Requests - Aspire and Property Photos - Aspire, with an Updates page and Aspire's API status.",
+      "releasedAt": "2026-10-05T12:29:39.848Z",
+      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/suite-v1.0.0"
     },
     "dashboard": {
       "name": "CB Dashboard",
-      "version": "0.3.0",
-      "file": "CB-Dashboard-Setup-0.3.0.exe",
-      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/dashboard-v0.3.0/CB-Dashboard-Setup-0.3.0.exe",
-      "size": 81908140,
-      "sha256": "aba567c107385cbabf1ee4f7008313e5c1903f442ddd041595e68161ff8b114e",
-      "notes": "New in Settings → Displays → This computer: Open at sign-in, so the TVs come back on their own after a restart, and Keep screens awake, so Windows doesn't turn them off. A TV whose page crashes now reloads itself. Fixes: a page you switch away from no longer keeps checking Aspire in the background, and an Aspire sign-in that stops working is renewed straight away instead of failing until the next day.",
-      "releasedAt": "2026-10-02T18:12:09.684Z",
-      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/dashboard-v0.3.0"
+      "version": "1.0.0",
+      "file": "CB-Dashboard-Setup-1.0.0.exe",
+      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/dashboard-v1.0.0/CB-Dashboard-Setup-1.0.0.exe",
+      "size": 81911751,
+      "sha256": "8ff0c69b1e603f44dca5340a5a45cd2366f8438bda7e65098c8ef4770511322c",
+      "notes": "First official release. The office TVs each show a page from Aspire: Route Completion, Snow Event, Shop Status, Equipment Requests, Weather or Welcome. Pick each screen's page, layout and display mode in Settings → Displays. A TV moved to another port keeps its page. On the computer that runs the TVs, turn on Open at sign-in and Keep screens awake. The Snow Event board no longer treats spring plow-damage repairs as a storm, and its last storm is always one where snow work was actually done.",
+      "releasedAt": "2026-10-05T12:29:45.658Z",
+      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/dashboard-v1.0.0"
     },
     "requests": {
       "name": "Equipment Requests - Aspire",
-      "version": "0.1.2",
-      "file": "Equipment-Requests-Aspire-Setup-0.1.2.exe",
-      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/requests-v0.1.2/Equipment-Requests-Aspire-Setup-0.1.2.exe",
-      "size": 81825017,
-      "sha256": "294f76ef2421074af2bdc36f70acc7284f7fe1e6407d5e3001b3bf3a027a3523",
-      "notes": "Helps stop two tickets being made for the same request. If the repair card doesn't attach at first, the app now tries again before giving up. And if a ticket with no notes or repair card was made on the Equipment Repairs route in the last day, the app stops before making another and asks you to check Aspire, in case that ticket is already for this request. If it isn't, click Create anyway.",
-      "releasedAt": "2026-10-05T12:00:44.504Z",
-      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/requests-v0.1.2"
+      "version": "1.0.0",
+      "file": "Equipment-Requests-Aspire-Setup-1.0.0.exe",
+      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/requests-v1.0.0/Equipment-Requests-Aspire-Setup-1.0.0.exe",
+      "size": 81828105,
+      "sha256": "03f3004303af0ac3232be8860b2740320c0db94c93c3a4d3ec4c628acb3fac11",
+      "notes": "First official release. Turns equipment requests from the field into repair tickets on the Equipment Repairs route. Each ticket gets a repair card the mechanic sees in Aspire Mobile, and there's a schedule of the repair route. If a ticket ends up with no repair card, it shows at the top of the list on every computer: pick the request it's for and the app attaches its card. The app also stops before making a second ticket for a request that may already have one.",
+      "releasedAt": "2026-10-05T12:29:51.629Z",
+      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/requests-v1.0.0"
     },
     "photos": {
       "name": "Property Photos - Aspire",
-      "version": "0.1.1",
-      "file": "Property-Photos-Aspire-Setup-0.1.1.exe",
-      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/photos-v0.1.1/Property-Photos-Aspire-Setup-0.1.1.exe",
-      "size": 81840290,
-      "sha256": "6a9a9e4906c5adfb0999bcf4fdd419d68257722b7459dd0889cc22f65027964f",
-      "notes": "Map pieces are now deleted 30 days after they're downloaded, so the app's storage can't keep growing. An Aspire sign-in that stops working is renewed straight away, a stuck photo download gives up after two minutes and tries again, and one photo with no date can no longer stop a property from loading.",
-      "releasedAt": "2026-10-02T18:12:20.261Z",
-      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/photos-v0.1.1"
+      "version": "1.0.0",
+      "file": "Property-Photos-Aspire-Setup-1.0.0.exe",
+      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/photos-v1.0.0/Property-Photos-Aspire-Setup-1.0.0.exe",
+      "size": 81843827,
+      "sha256": "83e6edf8009daa02cf03e9906d744ab6d5ac85f60755125eb45be85467906dcc",
+      "notes": "First official release. Field photos by property or ticket, with a satellite map of each property. Photos download only when you open them and are kept for a week. Map pieces are kept for 30 days.",
+      "releasedAt": "2026-10-05T12:29:58.013Z",
+      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/photos-v1.0.0"
     }
   }
 }
