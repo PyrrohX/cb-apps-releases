@@ -18,23 +18,23 @@ Installers for the Christian Brothers Lawncare & Outdoor Services apps, which wo
 
 **[Download the installer](https://github.com/PyrrohX/cb-apps-releases/releases/download/dashboard-v1.0.0/CB-Dashboard-Setup-1.0.0.exe)** (78 MB) · released October 5, 2026 · [release notes](https://github.com/PyrrohX/cb-apps-releases/releases/tag/dashboard-v1.0.0)
 
-### <img src="icons/requests.png" width="40" align="center"> Equipment Requests - Aspire — 1.0.0
+### <img src="icons/requests.png" width="40" align="center"> Equipment Requests - Aspire — 1.0.1
 
 *Repair tickets for the shop.* Turn equipment requests from Aspire Mobile into repair tickets with a repair card the mechanic can open, and see the Equipment Repairs route a week at a time.
 
-**[Download the installer](https://github.com/PyrrohX/cb-apps-releases/releases/download/requests-v1.0.0/Equipment-Requests-Aspire-Setup-1.0.0.exe)** (78 MB) · released October 5, 2026 · [release notes](https://github.com/PyrrohX/cb-apps-releases/releases/tag/requests-v1.0.0)
+**[Download the installer](https://github.com/PyrrohX/cb-apps-releases/releases/download/requests-v1.0.1/Equipment-Requests-Aspire-Setup-1.0.1.exe)** (78 MB) · released October 5, 2026 · [release notes](https://github.com/PyrrohX/cb-apps-releases/releases/tag/requests-v1.0.1)
 
-### <img src="icons/photos.png" width="40" align="center"> Property Photos - Aspire — 1.0.0
+### <img src="icons/photos.png" width="40" align="center"> Property Photos - Aspire — 1.0.1
 
 *Field photos by property.* Every photo the crews take, by property and work ticket, with a satellite map of where each was taken. Download what you need; it's kept a week.
 
-**[Download the installer](https://github.com/PyrrohX/cb-apps-releases/releases/download/photos-v1.0.0/Property-Photos-Aspire-Setup-1.0.0.exe)** (78 MB) · released October 5, 2026 · [release notes](https://github.com/PyrrohX/cb-apps-releases/releases/tag/photos-v1.0.0)
+**[Download the installer](https://github.com/PyrrohX/cb-apps-releases/releases/download/photos-v1.0.1/Property-Photos-Aspire-Setup-1.0.1.exe)** (78 MB) · released October 5, 2026 · [release notes](https://github.com/PyrrohX/cb-apps-releases/releases/tag/photos-v1.0.1)
 
-### <img src="icons/reference.png" width="40" align="center"> Reference - Aspire — 1.0.0
+### <img src="icons/reference.png" width="40" align="center"> Reference - Aspire — 1.0.1
 
 *Aspire, as easy lists.* Look things up in bulk: every property's square feet, notes and contacts; contracts ending and open bids; plates, service and asset numbers; and the records missing something.
 
-**[Download the installer](https://github.com/PyrrohX/cb-apps-releases/releases/download/reference-v1.0.0/Reference-Aspire-Setup-1.0.0.exe)** (78 MB) · released October 5, 2026 · [release notes](https://github.com/PyrrohX/cb-apps-releases/releases/tag/reference-v1.0.0)
+**[Download the installer](https://github.com/PyrrohX/cb-apps-releases/releases/download/reference-v1.0.1/Reference-Aspire-Setup-1.0.1.exe)** (78 MB) · released October 5, 2026 · [release notes](https://github.com/PyrrohX/cb-apps-releases/releases/tag/reference-v1.0.1)
 
 ---
 
