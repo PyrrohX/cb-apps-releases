@@ -1,17 +1,17 @@
 {
   "repo": "PyrrohX/cb-apps-releases",
-  "updatedAt": "2026-10-05T12:29:39.131Z",
+  "updatedAt": "2026-10-05T13:25:43.277Z",
   "apps": {
     "suite": {
       "name": "CB Suite",
-      "version": "1.0.0",
-      "file": "CB-Suite-Setup-1.0.0.exe",
-      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/suite-v1.0.0/CB-Suite-Setup-1.0.0.exe",
-      "size": 81967601,
-      "sha256": "a7b1046b4fc86a4f452eefdbe231d3e7368d1ea3f7b321e373e770ced72ecfc2",
-      "notes": "First official release. One place to open, install and update CB Dashboard, Equipment Requests - Aspire and Property Photos - Aspire, with an Updates page and Aspire's API status.",
-      "releasedAt": "2026-10-05T12:29:39.848Z",
-      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/suite-v1.0.0"
+      "version": "1.0.1",
+      "file": "CB-Suite-Setup-1.0.1.exe",
+      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/suite-v1.0.1/CB-Suite-Setup-1.0.1.exe",
+      "size": 82017997,
+      "sha256": "6928fe6783b4725cc91ceba3cce4abe0055d1f76bd448237eb028430f1b5aa8c",
+      "notes": "Adds Reference - Aspire: install it from the Apps page. Aspire's API status now also watches the parts of Aspire that Reference reads.",
+      "releasedAt": "2026-10-05T13:25:43.780Z",
+      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/suite-v1.0.1"
     },
     "dashboard": {
       "name": "CB Dashboard",
@@ -45,6 +45,17 @@
       "notes": "First official release. Field photos by property or ticket, with a satellite map of each property. Photos download only when you open them and are kept for a week. Map pieces are kept for 30 days.",
       "releasedAt": "2026-10-05T12:29:58.013Z",
       "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/photos-v1.0.0"
+    },
+    "reference": {
+      "name": "Reference - Aspire",
+      "version": "1.0.0",
+      "file": "Reference-Aspire-Setup-1.0.0.exe",
+      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/reference-v1.0.0/Reference-Aspire-Setup-1.0.0.exe",
+      "size": 81863919,
+      "sha256": "e1c7e0ac7d30cee4118811f0bc75d04751e2da48a6fd3aa43799d1bc07d485cb",
+      "notes": "First release. Things in Aspire that are slow to look up one at a time, as lists you can search, sort, filter and save as CSV. It covers property square feet, notes and contacts; contracts ending and open bids; equipment asset numbers, plates and renewals, and the service log. It also lists records in Aspire that are missing something. It only reads Aspire — it never changes anything.",
+      "releasedAt": "2026-10-05T13:25:49.146Z",
+      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/reference-v1.0.0"
     }
   }
 }
