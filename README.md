@@ -4,11 +4,11 @@ Installers for the Christian Brothers Lawncare & Outdoor Services apps, which wo
 
 **New computer? Install CB Suite first** — it installs and updates the rest, and shows when there's an update.
 
-### <img src="icons/suite.png" width="40" align="center"> CB Suite — 1.0.0
+### <img src="icons/suite.png" width="40" align="center"> CB Suite — 1.0.1
 
 *Every app in one place.* Opens, installs and updates the Christian Brothers apps, and shows how Aspire's API is doing. Start here on a new computer.
 
-**[Download the installer](https://github.com/PyrrohX/cb-apps-releases/releases/download/suite-v1.0.0/CB-Suite-Setup-1.0.0.exe)** (78 MB) · released October 5, 2026 · [release notes](https://github.com/PyrrohX/cb-apps-releases/releases/tag/suite-v1.0.0)
+**[Download the installer](https://github.com/PyrrohX/cb-apps-releases/releases/download/suite-v1.0.1/CB-Suite-Setup-1.0.1.exe)** (78 MB) · released October 5, 2026 · [release notes](https://github.com/PyrrohX/cb-apps-releases/releases/tag/suite-v1.0.1)
 
 ---
 
@@ -29,6 +29,12 @@ Installers for the Christian Brothers Lawncare & Outdoor Services apps, which wo
 *Field photos by property.* Every photo the crews take, by property and work ticket, with a satellite map of where each was taken. Download what you need; it's kept a week.
 
 **[Download the installer](https://github.com/PyrrohX/cb-apps-releases/releases/download/photos-v1.0.0/Property-Photos-Aspire-Setup-1.0.0.exe)** (78 MB) · released October 5, 2026 · [release notes](https://github.com/PyrrohX/cb-apps-releases/releases/tag/photos-v1.0.0)
+
+### <img src="icons/reference.png" width="40" align="center"> Reference - Aspire — 1.0.0
+
+*Aspire, as easy lists.* Look things up in bulk: every property's square feet, notes and contacts; contracts ending and open bids; plates, service and asset numbers; and the records missing something.
+
+**[Download the installer](https://github.com/PyrrohX/cb-apps-releases/releases/download/reference-v1.0.0/Reference-Aspire-Setup-1.0.0.exe)** (78 MB) · released October 5, 2026 · [release notes](https://github.com/PyrrohX/cb-apps-releases/releases/tag/reference-v1.0.0)
 
 ---
 
