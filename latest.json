@@ -1,6 +1,6 @@
 {
   "repo": "PyrrohX/cb-apps-releases",
-  "updatedAt": "2026-10-02T18:12:02.754Z",
+  "updatedAt": "2026-10-05T12:00:43.236Z",
   "apps": {
     "suite": {
       "name": "CB Suite",
@@ -26,14 +26,14 @@
     },
     "requests": {
       "name": "Equipment Requests - Aspire",
-      "version": "0.1.1",
-      "file": "Equipment-Requests-Aspire-Setup-0.1.1.exe",
-      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/requests-v0.1.1/Equipment-Requests-Aspire-Setup-0.1.1.exe",
-      "size": 81824259,
-      "sha256": "04b9a1b2bbf3ea80cf8fd5d83d835a62d1d3ca32d3d8a245a005c7ed1bf45ac1",
-      "notes": "An Aspire sign-in that stops working is renewed straight away instead of failing until the next day, and Aspire not answering now shows an error after a minute instead of leaving the list loading. The repair card now says it was made by Equipment Requests - Aspire.",
-      "releasedAt": "2026-10-02T18:12:15.034Z",
-      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/requests-v0.1.1"
+      "version": "0.1.2",
+      "file": "Equipment-Requests-Aspire-Setup-0.1.2.exe",
+      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/requests-v0.1.2/Equipment-Requests-Aspire-Setup-0.1.2.exe",
+      "size": 81825017,
+      "sha256": "294f76ef2421074af2bdc36f70acc7284f7fe1e6407d5e3001b3bf3a027a3523",
+      "notes": "Helps stop two tickets being made for the same request. If the repair card doesn't attach at first, the app now tries again before giving up. And if a ticket with no notes or repair card was made on the Equipment Repairs route in the last day, the app stops before making another and asks you to check Aspire, in case that ticket is already for this request. If it isn't, click Create anyway.",
+      "releasedAt": "2026-10-05T12:00:44.504Z",
+      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/requests-v0.1.2"
     },
     "photos": {
       "name": "Property Photos - Aspire",
