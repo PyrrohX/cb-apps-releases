@@ -30,11 +30,11 @@ Installers for the Christian Brothers Lawncare & Outdoor Services apps, which wo
 
 **[Download the installer](https://github.com/PyrrohX/cb-apps-releases/releases/download/photos-v1.0.2/Property-Photos-Aspire-Setup-1.0.2.exe)** (78 MB) · released October 6, 2026 · [release notes](https://github.com/PyrrohX/cb-apps-releases/releases/tag/photos-v1.0.2)
 
-### <img src="icons/reference.png" width="40" align="center"> Reference - Aspire — 1.0.2
+### <img src="icons/reference.png" width="40" align="center"> Reference - Aspire — 1.0.3
 
 *Aspire, as easy lists.* Look things up in bulk: every property's square feet, notes and contacts; contracts ending and open bids; plates, service and asset numbers; and the records missing something.
 
-**[Download the installer](https://github.com/PyrrohX/cb-apps-releases/releases/download/reference-v1.0.2/Reference-Aspire-Setup-1.0.2.exe)** (78 MB) · released October 6, 2026 · [release notes](https://github.com/PyrrohX/cb-apps-releases/releases/tag/reference-v1.0.2)
+**[Download the installer](https://github.com/PyrrohX/cb-apps-releases/releases/download/reference-v1.0.3/Reference-Aspire-Setup-1.0.3.exe)** (78 MB) · released October 6, 2026 · [release notes](https://github.com/PyrrohX/cb-apps-releases/releases/tag/reference-v1.0.3)
 
 ---
 
