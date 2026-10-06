@@ -1,61 +1,61 @@
 {
   "repo": "PyrrohX/cb-apps-releases",
-  "updatedAt": "2026-10-06T14:44:10.424Z",
+  "updatedAt": "2026-10-06T17:13:09.331Z",
   "apps": {
     "suite": {
       "name": "CB Suite",
-      "version": "1.0.1",
-      "file": "CB-Suite-Setup-1.0.1.exe",
-      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/suite-v1.0.1/CB-Suite-Setup-1.0.1.exe",
-      "size": 82017997,
-      "sha256": "6928fe6783b4725cc91ceba3cce4abe0055d1f76bd448237eb028430f1b5aa8c",
-      "notes": "Adds Reference - Aspire: install it from the Apps page. Aspire's API status now also watches the parts of Aspire that Reference reads.",
-      "releasedAt": "2026-10-05T13:25:43.780Z",
-      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/suite-v1.0.1"
+      "version": "1.0.2",
+      "file": "CB-Suite-Setup-1.0.2.exe",
+      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/suite-v1.0.2/CB-Suite-Setup-1.0.2.exe",
+      "size": 82332827,
+      "sha256": "ac6754d64e3689df904d9314a9ad770b1fade1f109e961dea564fdb4c769ee2b",
+      "notes": "Settings gear at the bottom left: update CB Suite itself, and a Themes page with Daylight Glass, Field Notes and Night Shift. Apply a theme to all apps or to each app on its own; open apps change straight away.",
+      "releasedAt": "2026-10-06T17:13:09.876Z",
+      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/suite-v1.0.2"
     },
     "dashboard": {
       "name": "CB Dashboard",
-      "version": "1.0.1",
-      "file": "CB-Dashboard-Setup-1.0.1.exe",
-      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/dashboard-v1.0.1/CB-Dashboard-Setup-1.0.1.exe",
-      "size": 81919669,
-      "sha256": "3a21c708948bdee538ab00a953f80d8da0af9a2d97a2e41e9c37f19ab6e7dc72",
-      "notes": "Snow Event board: each route's strip of stops is wide enough to show its progress at a glance, the \"of stops\" line under the gauge no longer runs into the dial, and a kind of work with one route says \"1 route\".",
-      "releasedAt": "2026-10-06T14:44:11.374Z",
-      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/dashboard-v1.0.1"
+      "version": "1.0.2",
+      "file": "CB-Dashboard-Setup-1.0.2.exe",
+      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/dashboard-v1.0.2/CB-Dashboard-Setup-1.0.2.exe",
+      "size": 82235846,
+      "sha256": "4284dd1b2923de8dd5f770cd02b7b077817a530ffd55a79c62c5247672727cad",
+      "notes": "Settings gear at the bottom left and a new Updates page: update CB Dashboard on its own, without CB Suite, and choose whether it checks for updates when it opens. Three new themes: Daylight Glass, Field Notes and Night Shift; CB Suite can also assign one.",
+      "releasedAt": "2026-10-06T17:13:14.927Z",
+      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/dashboard-v1.0.2"
     },
     "requests": {
       "name": "Equipment Requests - Aspire",
-      "version": "1.0.1",
-      "file": "Equipment-Requests-Aspire-Setup-1.0.1.exe",
-      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/requests-v1.0.1/Equipment-Requests-Aspire-Setup-1.0.1.exe",
-      "size": 81835680,
-      "sha256": "85f7b7f00c74251658d96df57c95fb1d84fcec5b093c6e5d935d29788c5b3213",
-      "notes": "In a small window the sidebar now scrolls instead of cutting off its last items and the Aspire connection. If Aspire is briefly busy (too many requests at once), the app waits a moment and tries again instead of showing an error.",
-      "releasedAt": "2026-10-05T14:33:41.599Z",
-      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/requests-v1.0.1"
+      "version": "1.0.2",
+      "file": "Equipment-Requests-Aspire-Setup-1.0.2.exe",
+      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/requests-v1.0.2/Equipment-Requests-Aspire-Setup-1.0.2.exe",
+      "size": 82152065,
+      "sha256": "272f059b44ebf6544d7ef03bacaa44f8663864708c0515c7769f69af8168a96c",
+      "notes": "Settings gear at the bottom left: update this app on its own, without CB Suite, and choose whether it checks for updates each time it opens and asks before updating. Follows the theme CB Suite assigns it (Daylight Glass, Field Notes or Night Shift).",
+      "releasedAt": "2026-10-06T17:13:19.854Z",
+      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/requests-v1.0.2"
     },
     "photos": {
       "name": "Property Photos - Aspire",
-      "version": "1.0.1",
-      "file": "Property-Photos-Aspire-Setup-1.0.1.exe",
-      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/photos-v1.0.1/Property-Photos-Aspire-Setup-1.0.1.exe",
-      "size": 81851374,
-      "sha256": "d0f58d452f010ace3d5b989e1af234a22ecbd1f770db29dcd3d87ee06daec6d6",
-      "notes": "In a small window the sidebar now scrolls instead of cutting off its last items and the Aspire connection. If Aspire is briefly busy (too many requests at once), the app waits a moment and tries again instead of showing an error.",
-      "releasedAt": "2026-10-05T14:33:48.693Z",
-      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/photos-v1.0.1"
+      "version": "1.0.2",
+      "file": "Property-Photos-Aspire-Setup-1.0.2.exe",
+      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/photos-v1.0.2/Property-Photos-Aspire-Setup-1.0.2.exe",
+      "size": 82167738,
+      "sha256": "3ef4226246876d18f13cf7475ea8d946d3277d47b9223bad07532e9af5b9ce53",
+      "notes": "Settings gear at the bottom left: update this app on its own, without CB Suite, and choose whether it checks for updates each time it opens and asks before updating. Follows the theme CB Suite assigns it (Daylight Glass, Field Notes or Night Shift).",
+      "releasedAt": "2026-10-06T17:13:25.279Z",
+      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/photos-v1.0.2"
     },
     "reference": {
       "name": "Reference - Aspire",
-      "version": "1.0.1",
-      "file": "Reference-Aspire-Setup-1.0.1.exe",
-      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/reference-v1.0.1/Reference-Aspire-Setup-1.0.1.exe",
-      "size": 81864873,
-      "sha256": "0700ca5c071ee45c71de86fbe3479e4f88c5d08ab25c3671778476e0b6487bf1",
-      "notes": "Tables now always fit their box: on Contacts, emails wrap at the @, phone numbers stay whole with room to the edge, and nothing is cut off. In a smaller window, tables tighten up and less important columns step aside; stat tiles wrap instead of squeezing; the sidebar scrolls.",
-      "releasedAt": "2026-10-05T14:33:55.080Z",
-      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/reference-v1.0.1"
+      "version": "1.0.2",
+      "file": "Reference-Aspire-Setup-1.0.2.exe",
+      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/reference-v1.0.2/Reference-Aspire-Setup-1.0.2.exe",
+      "size": 82181316,
+      "sha256": "9fc5a3a8102defedace23428b70fc81d0e2e6a78277796c9809feaf47200d1ad",
+      "notes": "Settings gear at the bottom left: update this app on its own, without CB Suite, and choose whether it checks for updates each time it opens and asks before updating. Follows the theme CB Suite assigns it (Daylight Glass, Field Notes or Night Shift).",
+      "releasedAt": "2026-10-06T17:13:30.293Z",
+      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/reference-v1.0.2"
     }
   }
 }
