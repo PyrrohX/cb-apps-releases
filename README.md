@@ -12,11 +12,11 @@ Installers for the Christian Brothers Lawncare & Outdoor Services apps, which wo
 
 ---
 
-### <img src="icons/dashboard.png" width="40" align="center"> CB Dashboard — 1.0.0
+### <img src="icons/dashboard.png" width="40" align="center"> CB Dashboard — 1.0.1
 
 *The office TVs.* Route completion, the snow event board, the weather board, shop status and the welcome wall on every office TV — live from Aspire, with themes, layouts and per-screen settings.
 
-**[Download the installer](https://github.com/PyrrohX/cb-apps-releases/releases/download/dashboard-v1.0.0/CB-Dashboard-Setup-1.0.0.exe)** (78 MB) · released October 5, 2026 · [release notes](https://github.com/PyrrohX/cb-apps-releases/releases/tag/dashboard-v1.0.0)
+**[Download the installer](https://github.com/PyrrohX/cb-apps-releases/releases/download/dashboard-v1.0.1/CB-Dashboard-Setup-1.0.1.exe)** (78 MB) · released October 6, 2026 · [release notes](https://github.com/PyrrohX/cb-apps-releases/releases/tag/dashboard-v1.0.1)
 
 ### <img src="icons/requests.png" width="40" align="center"> Equipment Requests - Aspire — 1.0.1
 
@@ -41,4 +41,4 @@ Installers for the Christian Brothers Lawncare & Outdoor Services apps, which wo
 Each app needs the company's Aspire API key the first time it opens (or copies it from CB Dashboard on the same computer); no keys are kept here.
 The installers aren't code-signed, so Windows may say *Windows protected your PC* — choose **More info → Run anyway**.
 
-<sub>Updated October 5, 2026 · [latest.json](latest.json) is what CB Suite reads.</sub>
+<sub>Updated October 6, 2026 · [latest.json](latest.json) is what CB Suite reads.</sub>
