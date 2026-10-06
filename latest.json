@@ -1,6 +1,6 @@
 {
   "repo": "PyrrohX/cb-apps-releases",
-  "updatedAt": "2026-10-06T17:13:09.331Z",
+  "updatedAt": "2026-10-06T17:22:24.760Z",
   "apps": {
     "suite": {
       "name": "CB Suite",
@@ -48,14 +48,14 @@
     },
     "reference": {
       "name": "Reference - Aspire",
-      "version": "1.0.2",
-      "file": "Reference-Aspire-Setup-1.0.2.exe",
-      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/reference-v1.0.2/Reference-Aspire-Setup-1.0.2.exe",
-      "size": 82181316,
-      "sha256": "9fc5a3a8102defedace23428b70fc81d0e2e6a78277796c9809feaf47200d1ad",
-      "notes": "Settings gear at the bottom left: update this app on its own, without CB Suite, and choose whether it checks for updates each time it opens and asks before updating. Follows the theme CB Suite assigns it (Daylight Glass, Field Notes or Night Shift).",
-      "releasedAt": "2026-10-06T17:13:30.293Z",
-      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/reference-v1.0.2"
+      "version": "1.0.3",
+      "file": "Reference-Aspire-Setup-1.0.3.exe",
+      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/reference-v1.0.3/Reference-Aspire-Setup-1.0.3.exe",
+      "size": 82181253,
+      "sha256": "d30e09c09f418b23e5f5b80ac5c947386bab3764311bb3db176f402b0c4e8ee0",
+      "notes": "A small release to test updating from inside the app (Settings → Updates, or the pop-up when it opens). Nothing else has changed.",
+      "releasedAt": "2026-10-06T17:22:26.732Z",
+      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/reference-v1.0.3"
     }
   }
 }
