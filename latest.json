@@ -1,6 +1,6 @@
 {
   "repo": "PyrrohX/cb-apps-releases",
-  "updatedAt": "2026-10-05T14:33:39.992Z",
+  "updatedAt": "2026-10-06T14:44:10.424Z",
   "apps": {
     "suite": {
       "name": "CB Suite",
@@ -15,14 +15,14 @@
     },
     "dashboard": {
       "name": "CB Dashboard",
-      "version": "1.0.0",
-      "file": "CB-Dashboard-Setup-1.0.0.exe",
-      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/dashboard-v1.0.0/CB-Dashboard-Setup-1.0.0.exe",
-      "size": 81911751,
-      "sha256": "8ff0c69b1e603f44dca5340a5a45cd2366f8438bda7e65098c8ef4770511322c",
-      "notes": "First official release. The office TVs each show a page from Aspire: Route Completion, Snow Event, Shop Status, Equipment Requests, Weather or Welcome. Pick each screen's page, layout and display mode in Settings → Displays. A TV moved to another port keeps its page. On the computer that runs the TVs, turn on Open at sign-in and Keep screens awake. The Snow Event board no longer treats spring plow-damage repairs as a storm, and its last storm is always one where snow work was actually done.",
-      "releasedAt": "2026-10-05T12:29:45.658Z",
-      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/dashboard-v1.0.0"
+      "version": "1.0.1",
+      "file": "CB-Dashboard-Setup-1.0.1.exe",
+      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/dashboard-v1.0.1/CB-Dashboard-Setup-1.0.1.exe",
+      "size": 81919669,
+      "sha256": "3a21c708948bdee538ab00a953f80d8da0af9a2d97a2e41e9c37f19ab6e7dc72",
+      "notes": "Snow Event board: each route's strip of stops is wide enough to show its progress at a glance, the \"of stops\" line under the gauge no longer runs into the dial, and a kind of work with one route says \"1 route\".",
+      "releasedAt": "2026-10-06T14:44:11.374Z",
+      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/dashboard-v1.0.1"
     },
     "requests": {
       "name": "Equipment Requests - Aspire",
