@@ -1,72 +1,72 @@
 {
   "repo": "PyrrohX/cb-apps-releases",
-  "updatedAt": "2026-10-07T12:31:59.815Z",
+  "updatedAt": "2026-10-07T16:39:19.087Z",
   "apps": {
     "suite": {
       "name": "CB Suite",
-      "version": "1.0.4",
-      "file": "CB-Suite-Setup-1.0.4.exe",
-      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/suite-v1.0.4/CB-Suite-Setup-1.0.4.exe",
-      "size": 82385446,
-      "sha256": "f11de48088f0990b2e36cfa72205165816594f206f30d026fba1f493e1fa8f3b",
-      "notes": "App cards show just the name, the home page drops its intro line, and the card footers no longer squeeze when an update is ready. New motion on hover and when you switch screens.",
-      "releasedAt": "2026-10-07T12:32:00.391Z",
-      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/suite-v1.0.4"
+      "version": "1.0.5",
+      "file": "CB-Suite-Setup-1.0.5.exe",
+      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/suite-v1.0.5/CB-Suite-Setup-1.0.5.exe",
+      "size": 82392294,
+      "sha256": "3339ff7193c14aa5eebfe2942571bbdc1b1168637eff28f467ad96fd83d93dc4",
+      "notes": "Settings has a new App Look menu with Themes and Layouts. Pick a layout for each app (Sidebar, Top bar, Icon rail or Floating dock) like you pick a theme; open apps change straight away. Livelier motion, and switching theme no longer leaves colours half-changed.",
+      "releasedAt": "2026-10-07T16:39:19.669Z",
+      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/suite-v1.0.5"
     },
     "dashboard": {
       "name": "CB Dashboard",
-      "version": "1.0.4",
-      "file": "CB-Dashboard-Setup-1.0.4.exe",
-      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/dashboard-v1.0.4/CB-Dashboard-Setup-1.0.4.exe",
-      "size": 82246176,
-      "sha256": "80b2df7fe4f703f036e45950627b1290a18f9f6c47ace96c468b6e2d282aeca3",
-      "notes": "New motion in Settings and the gear: buttons and cards lift on hover, and pages slide into place. The TV pages are unchanged.",
-      "releasedAt": "2026-10-07T12:32:06.927Z",
-      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/dashboard-v1.0.4"
+      "version": "1.0.5",
+      "file": "CB-Dashboard-Setup-1.0.5.exe",
+      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/dashboard-v1.0.5/CB-Dashboard-Setup-1.0.5.exe",
+      "size": 82253037,
+      "sha256": "5efd792b161d6261f3f0653a446a7f319acf56e4e7f16a968ca9f700cd7b6f35",
+      "notes": "Livelier motion in Settings and the gear. The TV pages are unchanged.",
+      "releasedAt": "2026-10-07T16:39:25.819Z",
+      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/dashboard-v1.0.5"
     },
     "requests": {
       "name": "Equipment Requests - Aspire",
-      "version": "1.0.4",
-      "file": "Equipment-Requests-Aspire-Setup-1.0.4.exe",
-      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/requests-v1.0.4/Equipment-Requests-Aspire-Setup-1.0.4.exe",
-      "size": 82162322,
-      "sha256": "f4ec88cdbac243dbd7e57012def718d9f316a7120461db2e6e55756796e2d3e1",
-      "notes": "New motion: buttons swell on hover, cards lift with a glassy shine, and screens slide into place when you switch.",
-      "releasedAt": "2026-10-07T12:32:13.387Z",
-      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/requests-v1.0.4"
+      "version": "1.0.5",
+      "file": "Equipment-Requests-Aspire-Setup-1.0.5.exe",
+      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/requests-v1.0.5/Equipment-Requests-Aspire-Setup-1.0.5.exe",
+      "size": 82169223,
+      "sha256": "c74c89e8c6b534db6e76ef7186685ede4f23875856e564e90f8d4c0f0ca74aab",
+      "notes": "Follows the layout CB Suite gives it: Sidebar, Top bar, Icon rail or Floating dock. Livelier motion, and long names in the sidebar wrap instead of being cut off.",
+      "releasedAt": "2026-10-07T16:39:32.029Z",
+      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/requests-v1.0.5"
     },
     "photos": {
       "name": "Property Photos - Aspire",
-      "version": "1.0.3",
-      "file": "Property-Photos-Aspire-Setup-1.0.3.exe",
-      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/photos-v1.0.3/Property-Photos-Aspire-Setup-1.0.3.exe",
-      "size": 82177983,
-      "sha256": "a0b22962a4b573e7c6d0e7b5539f2d2dec4b260650f2c0658f7122e7c848e7dd",
-      "notes": "New motion: buttons swell on hover, cards lift with a glassy shine, and screens slide into place when you switch.",
-      "releasedAt": "2026-10-07T12:32:19.008Z",
-      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/photos-v1.0.3"
+      "version": "1.0.4",
+      "file": "Property-Photos-Aspire-Setup-1.0.4.exe",
+      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/photos-v1.0.4/Property-Photos-Aspire-Setup-1.0.4.exe",
+      "size": 82184906,
+      "sha256": "af4cb6543e0c421390d45e3f856e4fbc5cd5c7dac5da5380abc3be8a84b2849d",
+      "notes": "Follows the layout CB Suite gives it: Sidebar, Top bar, Icon rail or Floating dock. Livelier motion, and the sidebar's mark no longer runs into the connection box.",
+      "releasedAt": "2026-10-07T16:39:38.649Z",
+      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/photos-v1.0.4"
     },
     "reference": {
       "name": "Reference - Aspire",
-      "version": "1.0.4",
-      "file": "Reference-Aspire-Setup-1.0.4.exe",
-      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/reference-v1.0.4/Reference-Aspire-Setup-1.0.4.exe",
-      "size": 82191323,
-      "sha256": "0ae2441bc06184f4d40fa60e02dbcf9e8624b8457db3acf25dcec487b5a3a1b5",
-      "notes": "New motion when you hover and switch sections, and shorter section headings: the ones that only repeated the name are gone.",
-      "releasedAt": "2026-10-07T12:32:25.298Z",
-      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/reference-v1.0.4"
+      "version": "1.0.5",
+      "file": "Reference-Aspire-Setup-1.0.5.exe",
+      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/reference-v1.0.5/Reference-Aspire-Setup-1.0.5.exe",
+      "size": 82198127,
+      "sha256": "d003350c1d11f9304abe9dbb0a3d9c6cc137567cdce52053b45e76dfd8eac607",
+      "notes": "Follows the layout CB Suite gives it: Sidebar, Top bar, Icon rail or Floating dock. Livelier motion, and long section names wrap instead of being cut off.",
+      "releasedAt": "2026-10-07T16:39:44.572Z",
+      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/reference-v1.0.5"
     },
     "sales": {
       "name": "Equipment Sales - Aspire",
-      "version": "1.0.1",
-      "file": "Equipment-Sales-Aspire-Setup-1.0.1.exe",
-      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/sales-v1.0.1/Equipment-Sales-Aspire-Setup-1.0.1.exe",
-      "size": 82170266,
-      "sha256": "2a93fcacfae050f0dd1a5d9351e20b35529247547689e7e7eaa0c6f4a7094073",
-      "notes": "The sell list drops the Why column; a crew's note shows under a flagged machine instead. Shorter headings, and new motion on hover and when you switch screens.",
-      "releasedAt": "2026-10-07T12:32:32.424Z",
-      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/sales-v1.0.1"
+      "version": "1.0.2",
+      "file": "Equipment-Sales-Aspire-Setup-1.0.2.exe",
+      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/sales-v1.0.2/Equipment-Sales-Aspire-Setup-1.0.2.exe",
+      "size": 82177177,
+      "sha256": "8f8ba489d550609cfe34449c4dd01da4dc1225f5f22780069639723cd99a8dfe",
+      "notes": "Follows the layout CB Suite gives it: Sidebar, Top bar, Icon rail or Floating dock. Livelier motion.",
+      "releasedAt": "2026-10-07T16:39:50.584Z",
+      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/sales-v1.0.2"
     }
   }
 }
