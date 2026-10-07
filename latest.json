@@ -1,72 +1,72 @@
 {
   "repo": "PyrrohX/cb-apps-releases",
-  "updatedAt": "2026-10-07T12:10:11.101Z",
+  "updatedAt": "2026-10-07T12:31:59.815Z",
   "apps": {
     "suite": {
       "name": "CB Suite",
-      "version": "1.0.3",
-      "file": "CB-Suite-Setup-1.0.3.exe",
-      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/suite-v1.0.3/CB-Suite-Setup-1.0.3.exe",
-      "size": 82383810,
-      "sha256": "9a253d2841e4689f9f466e0ca613ccdccb0e737adb3708b54cc1b97aef1d097e",
-      "notes": "Lists the new Equipment Sales - Aspire app, so you can install it from here. In a selling season, the home page shows how many machines on its sell list to put up now; click it to open the app.",
-      "releasedAt": "2026-10-07T12:10:11.635Z",
-      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/suite-v1.0.3"
+      "version": "1.0.4",
+      "file": "CB-Suite-Setup-1.0.4.exe",
+      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/suite-v1.0.4/CB-Suite-Setup-1.0.4.exe",
+      "size": 82385446,
+      "sha256": "f11de48088f0990b2e36cfa72205165816594f206f30d026fba1f493e1fa8f3b",
+      "notes": "App cards show just the name, the home page drops its intro line, and the card footers no longer squeeze when an update is ready. New motion on hover and when you switch screens.",
+      "releasedAt": "2026-10-07T12:32:00.391Z",
+      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/suite-v1.0.4"
     },
     "dashboard": {
       "name": "CB Dashboard",
-      "version": "1.0.3",
-      "file": "CB-Dashboard-Setup-1.0.3.exe",
-      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/dashboard-v1.0.3/CB-Dashboard-Setup-1.0.3.exe",
-      "size": 82244657,
-      "sha256": "09779ce68d4304c965c4b8c8811d8c4e81ffbc41d64c5be623742cc14e894db3",
-      "notes": "A new For Sale page for the shop TV: the machines listed in Equipment Sales - Aspire, with photo, price, meter and condition, so crews get first look. Give a screen the page in Settings → Displays. Shop Status leaves out requests tagged to sell a machine.",
-      "releasedAt": "2026-10-07T12:10:16.769Z",
-      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/dashboard-v1.0.3"
+      "version": "1.0.4",
+      "file": "CB-Dashboard-Setup-1.0.4.exe",
+      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/dashboard-v1.0.4/CB-Dashboard-Setup-1.0.4.exe",
+      "size": 82246176,
+      "sha256": "80b2df7fe4f703f036e45950627b1290a18f9f6c47ace96c468b6e2d282aeca3",
+      "notes": "New motion in Settings and the gear: buttons and cards lift on hover, and pages slide into place. The TV pages are unchanged.",
+      "releasedAt": "2026-10-07T12:32:06.927Z",
+      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/dashboard-v1.0.4"
     },
     "requests": {
       "name": "Equipment Requests - Aspire",
-      "version": "1.0.3",
-      "file": "Equipment-Requests-Aspire-Setup-1.0.3.exe",
-      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/requests-v1.0.3/Equipment-Requests-Aspire-Setup-1.0.3.exe",
-      "size": 82160732,
-      "sha256": "732c660c1e76b5500d3ff6ae0033d55c9cdfc9076fdbd0611fbdd43290efc0be",
-      "notes": "Requests tagged to sell a machine (\"Retire / Sell\") no longer show as repair work. They go to the sell list in Equipment Sales - Aspire instead.",
-      "releasedAt": "2026-10-07T12:10:23.515Z",
-      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/requests-v1.0.3"
+      "version": "1.0.4",
+      "file": "Equipment-Requests-Aspire-Setup-1.0.4.exe",
+      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/requests-v1.0.4/Equipment-Requests-Aspire-Setup-1.0.4.exe",
+      "size": 82162322,
+      "sha256": "f4ec88cdbac243dbd7e57012def718d9f316a7120461db2e6e55756796e2d3e1",
+      "notes": "New motion: buttons swell on hover, cards lift with a glassy shine, and screens slide into place when you switch.",
+      "releasedAt": "2026-10-07T12:32:13.387Z",
+      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/requests-v1.0.4"
     },
     "photos": {
       "name": "Property Photos - Aspire",
-      "version": "1.0.2",
-      "file": "Property-Photos-Aspire-Setup-1.0.2.exe",
-      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/photos-v1.0.2/Property-Photos-Aspire-Setup-1.0.2.exe",
-      "size": 82167738,
-      "sha256": "3ef4226246876d18f13cf7475ea8d946d3277d47b9223bad07532e9af5b9ce53",
-      "notes": "Settings gear at the bottom left: update this app on its own, without CB Suite, and choose whether it checks for updates each time it opens and asks before updating. Follows the theme CB Suite assigns it (Daylight Glass, Field Notes or Night Shift).",
-      "releasedAt": "2026-10-06T17:13:25.279Z",
-      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/photos-v1.0.2"
+      "version": "1.0.3",
+      "file": "Property-Photos-Aspire-Setup-1.0.3.exe",
+      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/photos-v1.0.3/Property-Photos-Aspire-Setup-1.0.3.exe",
+      "size": 82177983,
+      "sha256": "a0b22962a4b573e7c6d0e7b5539f2d2dec4b260650f2c0658f7122e7c848e7dd",
+      "notes": "New motion: buttons swell on hover, cards lift with a glassy shine, and screens slide into place when you switch.",
+      "releasedAt": "2026-10-07T12:32:19.008Z",
+      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/photos-v1.0.3"
     },
     "reference": {
       "name": "Reference - Aspire",
-      "version": "1.0.3",
-      "file": "Reference-Aspire-Setup-1.0.3.exe",
-      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/reference-v1.0.3/Reference-Aspire-Setup-1.0.3.exe",
-      "size": 82181253,
-      "sha256": "d30e09c09f418b23e5f5b80ac5c947386bab3764311bb3db176f402b0c4e8ee0",
-      "notes": "A small release to test updating from inside the app (Settings → Updates, or the pop-up when it opens). Nothing else has changed.",
-      "releasedAt": "2026-10-06T17:22:26.732Z",
-      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/reference-v1.0.3"
+      "version": "1.0.4",
+      "file": "Reference-Aspire-Setup-1.0.4.exe",
+      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/reference-v1.0.4/Reference-Aspire-Setup-1.0.4.exe",
+      "size": 82191323,
+      "sha256": "0ae2441bc06184f4d40fa60e02dbcf9e8624b8457db3acf25dcec487b5a3a1b5",
+      "notes": "New motion when you hover and switch sections, and shorter section headings: the ones that only repeated the name are gone.",
+      "releasedAt": "2026-10-07T12:32:25.298Z",
+      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/reference-v1.0.4"
     },
     "sales": {
       "name": "Equipment Sales - Aspire",
-      "version": "1.0.0",
-      "file": "Equipment-Sales-Aspire-Setup-1.0.0.exe",
-      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/sales-v1.0.0/Equipment-Sales-Aspire-Setup-1.0.0.exe",
-      "size": 82169187,
-      "sha256": "b908b91c8969051219f0684206e5764cf31bda4d4a731d80d7c7de70c6cec05f",
-      "notes": "The first release. A sell list of every machine ranked by age, meter and a year of repairs, with crew flags from Aspire Mobile on top; a page per sale with the listing text, photos, where it's listed, offers, the checklist and a bill of sale; and a public for-sale page. Reads Aspire only.",
-      "releasedAt": "2026-10-07T12:10:29.512Z",
-      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/sales-v1.0.0"
+      "version": "1.0.1",
+      "file": "Equipment-Sales-Aspire-Setup-1.0.1.exe",
+      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/sales-v1.0.1/Equipment-Sales-Aspire-Setup-1.0.1.exe",
+      "size": 82170266,
+      "sha256": "2a93fcacfae050f0dd1a5d9351e20b35529247547689e7e7eaa0c6f4a7094073",
+      "notes": "The sell list drops the Why column; a crew's note shows under a flagged machine instead. Shorter headings, and new motion on hover and when you switch screens.",
+      "releasedAt": "2026-10-07T12:32:32.424Z",
+      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/sales-v1.0.1"
     }
   }
 }
