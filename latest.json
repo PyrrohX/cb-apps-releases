@@ -1,39 +1,39 @@
 {
   "repo": "PyrrohX/cb-apps-releases",
-  "updatedAt": "2026-10-06T17:22:24.760Z",
+  "updatedAt": "2026-10-07T12:10:11.101Z",
   "apps": {
     "suite": {
       "name": "CB Suite",
-      "version": "1.0.2",
-      "file": "CB-Suite-Setup-1.0.2.exe",
-      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/suite-v1.0.2/CB-Suite-Setup-1.0.2.exe",
-      "size": 82332827,
-      "sha256": "ac6754d64e3689df904d9314a9ad770b1fade1f109e961dea564fdb4c769ee2b",
-      "notes": "Settings gear at the bottom left: update CB Suite itself, and a Themes page with Daylight Glass, Field Notes and Night Shift. Apply a theme to all apps or to each app on its own; open apps change straight away.",
-      "releasedAt": "2026-10-06T17:13:09.876Z",
-      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/suite-v1.0.2"
+      "version": "1.0.3",
+      "file": "CB-Suite-Setup-1.0.3.exe",
+      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/suite-v1.0.3/CB-Suite-Setup-1.0.3.exe",
+      "size": 82383810,
+      "sha256": "9a253d2841e4689f9f466e0ca613ccdccb0e737adb3708b54cc1b97aef1d097e",
+      "notes": "Lists the new Equipment Sales - Aspire app, so you can install it from here. In a selling season, the home page shows how many machines on its sell list to put up now; click it to open the app.",
+      "releasedAt": "2026-10-07T12:10:11.635Z",
+      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/suite-v1.0.3"
     },
     "dashboard": {
       "name": "CB Dashboard",
-      "version": "1.0.2",
-      "file": "CB-Dashboard-Setup-1.0.2.exe",
-      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/dashboard-v1.0.2/CB-Dashboard-Setup-1.0.2.exe",
-      "size": 82235846,
-      "sha256": "4284dd1b2923de8dd5f770cd02b7b077817a530ffd55a79c62c5247672727cad",
-      "notes": "Settings gear at the bottom left and a new Updates page: update CB Dashboard on its own, without CB Suite, and choose whether it checks for updates when it opens. Three new themes: Daylight Glass, Field Notes and Night Shift; CB Suite can also assign one.",
-      "releasedAt": "2026-10-06T17:13:14.927Z",
-      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/dashboard-v1.0.2"
+      "version": "1.0.3",
+      "file": "CB-Dashboard-Setup-1.0.3.exe",
+      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/dashboard-v1.0.3/CB-Dashboard-Setup-1.0.3.exe",
+      "size": 82244657,
+      "sha256": "09779ce68d4304c965c4b8c8811d8c4e81ffbc41d64c5be623742cc14e894db3",
+      "notes": "A new For Sale page for the shop TV: the machines listed in Equipment Sales - Aspire, with photo, price, meter and condition, so crews get first look. Give a screen the page in Settings → Displays. Shop Status leaves out requests tagged to sell a machine.",
+      "releasedAt": "2026-10-07T12:10:16.769Z",
+      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/dashboard-v1.0.3"
     },
     "requests": {
       "name": "Equipment Requests - Aspire",
-      "version": "1.0.2",
-      "file": "Equipment-Requests-Aspire-Setup-1.0.2.exe",
-      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/requests-v1.0.2/Equipment-Requests-Aspire-Setup-1.0.2.exe",
-      "size": 82152065,
-      "sha256": "272f059b44ebf6544d7ef03bacaa44f8663864708c0515c7769f69af8168a96c",
-      "notes": "Settings gear at the bottom left: update this app on its own, without CB Suite, and choose whether it checks for updates each time it opens and asks before updating. Follows the theme CB Suite assigns it (Daylight Glass, Field Notes or Night Shift).",
-      "releasedAt": "2026-10-06T17:13:19.854Z",
-      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/requests-v1.0.2"
+      "version": "1.0.3",
+      "file": "Equipment-Requests-Aspire-Setup-1.0.3.exe",
+      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/requests-v1.0.3/Equipment-Requests-Aspire-Setup-1.0.3.exe",
+      "size": 82160732,
+      "sha256": "732c660c1e76b5500d3ff6ae0033d55c9cdfc9076fdbd0611fbdd43290efc0be",
+      "notes": "Requests tagged to sell a machine (\"Retire / Sell\") no longer show as repair work. They go to the sell list in Equipment Sales - Aspire instead.",
+      "releasedAt": "2026-10-07T12:10:23.515Z",
+      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/requests-v1.0.3"
     },
     "photos": {
       "name": "Property Photos - Aspire",
@@ -56,6 +56,17 @@
       "notes": "A small release to test updating from inside the app (Settings → Updates, or the pop-up when it opens). Nothing else has changed.",
       "releasedAt": "2026-10-06T17:22:26.732Z",
       "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/reference-v1.0.3"
+    },
+    "sales": {
+      "name": "Equipment Sales - Aspire",
+      "version": "1.0.0",
+      "file": "Equipment-Sales-Aspire-Setup-1.0.0.exe",
+      "url": "https://github.com/PyrrohX/cb-apps-releases/releases/download/sales-v1.0.0/Equipment-Sales-Aspire-Setup-1.0.0.exe",
+      "size": 82169187,
+      "sha256": "b908b91c8969051219f0684206e5764cf31bda4d4a731d80d7c7de70c6cec05f",
+      "notes": "The first release. A sell list of every machine ranked by age, meter and a year of repairs, with crew flags from Aspire Mobile on top; a page per sale with the listing text, photos, where it's listed, offers, the checklist and a bill of sale; and a public for-sale page. Reads Aspire only.",
+      "releasedAt": "2026-10-07T12:10:29.512Z",
+      "releaseUrl": "https://github.com/PyrrohX/cb-apps-releases/releases/tag/sales-v1.0.0"
     }
   }
 }
